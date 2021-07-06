@@ -1,0 +1,6 @@
+s = "";
+for (I=1; I<= 5; I=I + 1)
+{
+s +=  "* ";
+}
+console.log(s)
